@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+        <item
+              android:id="@+id/nav_pertama"
+              android:title="Pertama"
+              android:icon="@drawable/outline_add_home_24"/>
+        <item
+              android:id="@+id/nav_kedua"
+              android:title="Kedua"
+              android:icon="@drawable/baseline_add_card_24"/>
+        <item
+              android:id="@+id/nav_ketiga"
+              android:title="Ketiga"
+              android:icon="@drawable/baseline_add_card_24"/>
+        <item
+              android:id="@+id/nav_keempat"
+              android:title="Keempat"
+              android:icon="@drawable/baseline_add_card_24"/>
+        <item
+              android:id="@+id/nav_kelima"
+              android:title="Kelima"
+              android:icon="@drawable/baseline_add_card_24"/>
+    </menu>

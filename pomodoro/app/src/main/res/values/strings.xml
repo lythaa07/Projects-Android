@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">pomodoro</string>
+    <string name="time">25:00</string>
+</resources>

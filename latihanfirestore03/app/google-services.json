@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1076708507840",
+    "project_id": "latihanfirestore03-b9c75",
+    "storage_bucket": "latihanfirestore03-b9c75.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1076708507840:android:17da4b3769158960fcad25",
+        "android_client_info": {
+          "package_name": "com.kelasp1.latihanfirestore03"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1076708507840-k2n37nfmdrb01dvpif5os0v8af1630t8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kelasp1.latihanfirestore03",
+            "certificate_hash": "3557ceb709d309cf6dc31e99f315e4525e949cda"
+          }
+        },
+        {
+          "client_id": "1076708507840-5ovuma9g8mbs6ce97h9so5bleks1q7n5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB773eA5N3vLFKYVaJAbSNaTX-fpR3ou0w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1076708507840-5ovuma9g8mbs6ce97h9so5bleks1q7n5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

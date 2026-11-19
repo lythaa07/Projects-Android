@@ -1,0 +1,71 @@
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="20dp"
+    android:stretchColumns="1"
+    android:background="#1B4F72"> <TableRow>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Login Form"
+        android:textColor="#FFFFFF"
+        android:textSize="32sp"
+        android:layout_span="2"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="30dp" />
+</TableRow>
+
+    <TableRow
+        android:layout_marginBottom="15dp">
+        <TextView
+            android:text="UserName"
+            android:textColor="#FFFFFF"
+            android:textSize="18sp"
+            android:paddingEnd="20dp"
+            android:layout_gravity="center_vertical"/>
+        <EditText
+            android:id="@+id/userName"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:hint="userName"
+            android:textColorHint="#99FFFFFF"
+            android:textColor="#FFFFFF"
+            android:backgroundTint="#FFFFFF"
+            android:inputType="text" />
+    </TableRow>
+
+    <TableRow
+        android:layout_marginBottom="25dp">
+        <TextView
+            android:text="Password"
+            android:textColor="#FFFFFF"
+            android:textSize="18sp"
+            android:paddingEnd="20dp"
+            android:layout_gravity="center_vertical"/>
+        <EditText
+            android:id="@+id/password"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:hint="password"
+            android:textColorHint="#99FFFFFF"
+            android:textColor="#FFFFFF"
+            android:backgroundTint="#FFFFFF"
+            android:inputType="textPassword" />
+    </TableRow>
+
+    <TableRow>
+        <Button
+            android:id="@+id/btnLogin"
+            android:layout_width="wrap_content"
+            android:layout_height="60dp"
+            android:layout_column="1"
+            android:layout_gravity="start"
+            android:text="LOGIN"
+            android:textSize="18sp"
+            android:backgroundTint="#2E86C1"
+            android:textColor="#FFFFFF"
+            android:textAllCaps="true" />
+    </TableRow>
+
+</TableLayout>

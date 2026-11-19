@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "559866345872",
+    "firebase_url": "https://latihan01-13c50-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "latihan01-13c50",
+    "storage_bucket": "latihan01-13c50.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:559866345872:android:acb8d8ce55ccfe7c531b15",
+        "android_client_info": {
+          "package_name": "com.kelasp1.latihanfirebase01"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "559866345872-gb423dl4uti2q9h7hkd7a50jqoradtht.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kelasp1.latihanfirebase01",
+            "certificate_hash": "3557ceb709d309cf6dc31e99f315e4525e949cda"
+          }
+        },
+        {
+          "client_id": "559866345872-inj5e9pa8pauv78nji8dis8mjakib3a8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyZNSlyZZ8gpMD6-YlMdmeyMIWSuda1CM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "559866345872-inj5e9pa8pauv78nji8dis8mjakib3a8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
