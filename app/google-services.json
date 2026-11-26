@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "259671457765",
+    "project_id": "quizmobile-9d9b1",
+    "storage_bucket": "quizmobile-9d9b1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:259671457765:android:7c1d3beb1abc768a3db90c",
+        "android_client_info": {
+          "package_name": "com.kelasp1.quizmobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJnm6vSP65VBQ7bISCnEmh_ulVa6kvua0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
